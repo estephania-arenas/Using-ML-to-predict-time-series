@@ -3,7 +3,7 @@
 
 ## :scroll:Short results description
 
-:green_book: The objective of this doccument is to predict the ICV timeseries using Machine Learning. To do this, 3 regression models were trained with data in *three-month frequency*, adittionally, the model performance were calculated using the **Mean Absolute Error**, which indicates **in average, how much the model predictions differ from real ones**
+:green_book: The objective of this doccument is to predict the ICV timeseries using Machine Learning. To do this, 3 regression models were trained with data in *three-month frequency*, adittionally, the model performance were calculated using the **Mean Absolute Error**, which indicates **in average, how much the model predictions differ from real ones ** 
 
 :green_book: Following, is shown the table with results.
 
